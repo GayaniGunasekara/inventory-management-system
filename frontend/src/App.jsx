@@ -4,6 +4,8 @@ import Dashboard from "./pages/Dashboard";
 import Inventory from "./pages/Inventory";
 import Purchases from "./pages/Purchases";
 import Usage from "./pages/Usage";
+import "./App.css";
+
 
 export default function App() {
   return (

@@ -21,6 +21,12 @@
       "name": "Tea",
       "category": "Kitchen Supplies",
       "initial": 1
+    },
+    {
+      "id": "1763746529460",
+      "name": "Suger",
+      "category": "56",
+      "initial": 4
     }
   ],
   "purchases": [
@@ -46,6 +52,20 @@
       "item": "Item B",
       "category": "Cat2",
       "quantityUsed": 2
+    },
+    {
+      "id": "1763745511873",
+      "date": "",
+      "item": "",
+      "category": "",
+      "quantityUsed": 0
+    },
+    {
+      "id": "1763745798277",
+      "date": "",
+      "item": "",
+      "category": "",
+      "quantityUsed": 0
     }
   ]
 }
