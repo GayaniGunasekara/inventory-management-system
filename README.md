@@ -1,5 +1,4 @@
-# Web-Based-Office-Inventory-Management-System
-Internship Assignment: Web-Based Office Inventory Management System
+
 # Web-Based Office Inventory Management System
 
 A responsive and user-friendly web application designed to simplify office inventory tracking. This system helps manage stock levels, log purchases and usage, and maintain accurate inventory records with a clean and intuitive interface.
