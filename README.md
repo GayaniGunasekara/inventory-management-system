@@ -74,8 +74,8 @@ A responsive and user-friendly web application designed to simplify office inven
 ## 🚀 Running the Project
 
 - Start the Backend
-node server.js
+    - node server.js
 - Start the Frontend
-npm run dev
+    - npm run dev
 
 
