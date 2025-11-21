@@ -4,7 +4,8 @@
     padding: 0 20px;
 }
 
-.form {
+.form,
+.search-bar {
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
@@ -24,4 +25,8 @@
 
 .form button:hover {
     background-color: #1976d2;
+}
+
+.search-bar input {
+    width: 250px;
 }

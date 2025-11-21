@@ -21,12 +21,6 @@
       "name": "Tea",
       "category": "Kitchen Supplies",
       "initial": 1
-    },
-    {
-      "id": "1763746529460",
-      "name": "Suger",
-      "category": "56",
-      "initial": 4
     }
   ],
   "purchases": [
@@ -43,6 +37,13 @@
       "item": "Notebooks",
       "category": "Stationary",
       "quantity": 3
+    },
+    {
+      "id": "1763746799524",
+      "date": "",
+      "item": "",
+      "category": "",
+      "quantity": 0
     }
   ],
   "usage": [
